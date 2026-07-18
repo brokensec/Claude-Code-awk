@@ -1,4 +1,7 @@
-# Claude Code v2.1.177 awk vulnerabilities 
+<div align="center">
+  <img src="asset/banner.png" alt="Claude Code awk" width="800"/>
+
+<h1>Claude Code v2.1.177 awk vulnerabilities</h1>
 
 ---
 
